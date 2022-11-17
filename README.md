@@ -1,7 +1,7 @@
 # OmniCity-v1.0
 
 ## Introduction
-This project is used in Multi-level task based on MMDetection, which includes models and correlative configs.  
+This project includes a part of the dataset and benchmarks of OmniCity-v1.0. The implemention is based on MMDetection. The complete dataset and benchmarks will be released soon.  
 
 ## Datasets
 OmniCity Dataset including `Satellite-view` and `Street-view`, whitch are both divided into train and test set:
